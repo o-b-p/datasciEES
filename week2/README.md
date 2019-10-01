@@ -1,4 +1,4 @@
-This folder contains files associated with the tutorials in Week 2.
+This folder contains files, tutorials and information for Week 2
  Week 2: Version control and collaborative coding
  
-I made a change to this file through RStudio.
+Erika Hodgson (s1642155@ed.ac.uk)
